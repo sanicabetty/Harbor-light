@@ -58,7 +58,7 @@ miss our annual summer festival for fun, food, and festivities for all ages.</p>
 </main>
 
 <footer> 
-Contact Us
+<strong>Contact Us<strong>
 <p>Have questions or want to get involved? Email us!</p> 
 <label>Email</label>
 <input name="Email" id"Email">

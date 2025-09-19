@@ -60,6 +60,7 @@ miss our annual summer festival for fun, food, and festivities for all ages.</p>
 <a href="info@harbolight.com" subject="email" id="contact">Contact Us</a>
 <p>Have questions or want to get involved? Email us!</p> 
 <p>2050 Harbor Light Community Center</p>
+  
 </footer> 
 </body>
 </html>

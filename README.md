@@ -2,14 +2,15 @@
 <html> 
 <head> 
 <title>Harbor Light Community Center</title>
-</head> 
+</head>
+  
 <body>
 <font face="Arial, sans-serif">  
 <header> 
 <center>
 <img src="https://edube.org/uploads/media/default/0001/04/logo.jpg" alt="Center 
-Logo"><br><br>
-<h1>Welcome to Harbor Light Community Center</h1>
+Logo"> <br>
+<p>Welcome to Harbor Light Community Center</p>
 </center> 
 </header> 
 
@@ -28,9 +29,7 @@ Logo"><br><br>
 alt="Decorative Banner"> 
 </div> 
 
-
 <section> 
-<div>
 <main>
 <h2><strong>About Us</strong></h2> 
 <p>The Harbor Light Community Center has been at the heart of our community for over 

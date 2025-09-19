@@ -1,5 +1,5 @@
 <!DOCTYPE html> 
-<html lang="UTF-8"> 
+<html> 
 <head> 
 <title>Harbor Light Community Center</title>
 </head> 
